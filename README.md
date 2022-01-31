@@ -1,6 +1,10 @@
-# academic-snapshot-dashboard
+# Academic Snapshot Dashboard - MSM Design
 
-This repository contains the sql code used to generate the 'Harlem Link Snapshot: Academic Data Dashboard' (screenshots below)
+>  This repository contains the sql code used to generate the 'Harlem Link Snapshot: Academic Data Dashboard' (screenshots below)
+>
+>  For more information please contact me at: david@msmdesign.nyc | [msmdesign.nyc](https://msmdesign.nyc/)
+
+# academic-snapshot-dashboard
 
 
 ![](https://github.com/davidwhitemsm/images/blob/main/Snapshot_-_Academic_Data_Dashboard___Harlem_Link_Charter_School_Page_01.png)
